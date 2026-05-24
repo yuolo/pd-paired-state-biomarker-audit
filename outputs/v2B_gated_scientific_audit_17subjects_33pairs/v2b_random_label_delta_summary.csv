@@ -1,0 +1,3 @@
+null_name,metric,observed,null_mean,empirical_p_larger,n_permutations,seed
+random_label_null,delta_top1_v2B_minus_v2A,0.0,1.8181818181818253e-05,0.649870025994801,5000,42
+random_label_null,delta_mrr_v2B_minus_v2A,0.0,5.214302532484374e-05,0.4997000599880024,5000,42

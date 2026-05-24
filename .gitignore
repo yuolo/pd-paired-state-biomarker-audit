@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Raw neural data must never be committed (see DATA.md for DOIs)
+*.fif
+*.edf
+*.set
+*.gdf
+*.ds/
+
+# Note: figures/data/*.csv and figures/output/* ARE committed on purpose
+# (small result tables + rendered figures), so they are not ignored here.
+
+# matplotlib font cache (created on figure runs)
+.cache/

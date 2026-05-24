@@ -1,0 +1,15 @@
+feature_group,failure_type,count,n_failures,n_pairs
+STN_features,other_subject_same_task_side,9,10,33
+STN_features,quality_related,1,10,33
+compact_aperiodic_residual,other_subject_same_task_side,7,10,33
+compact_aperiodic_residual,quality_related,3,10,33
+coupling,other_subject_same_task_side,7,13,33
+coupling,quality_related,6,13,33
+raw_beta_gamma_power,other_subject_same_task_side,11,16,33
+raw_beta_gamma_power,quality_related,5,16,33
+MEG_motor_power_features,other_subject_same_task_side,13,17,33
+MEG_motor_power_features,quality_related,4,17,33
+all_v2_features,other_subject_same_task_side,7,9,33
+all_v2_features,quality_related,2,9,33
+v2A_compact_rerank_features,other_subject_same_task_side,7,10,33
+v2A_compact_rerank_features,quality_related,3,10,33

@@ -1,0 +1,17 @@
+feature,mean_delta_med_z,mean_delta_dbs_z,same_direction,subspace,gain_class
+stn_alpha_log_power,1.305438340857633,-0.16014331103998064,False,aperiodic_broadband,gain_sensitive
+stn_low_beta_log_power,0.7182648355403943,-0.9726736546269137,False,aperiodic_broadband,gain_sensitive
+stn_high_beta_log_power,0.354093919923604,-1.361449657307561,False,aperiodic_broadband,gain_sensitive
+stn_broad_beta_log_power,0.5083853153466584,-1.1748463043760613,False,aperiodic_broadband,gain_sensitive
+stn_gamma_log_power,1.5969822739369646,-0.08354596157997148,False,aperiodic_broadband,gain_sensitive
+stn_low_beta_high_beta_log_ratio,0.6264705497183864,0.6003868346927449,True,aperiodic_broadband,gain_invariant
+stn_beta_gamma_log_ratio,-0.7739478451451702,-0.9755306229389119,True,aperiodic_broadband,gain_invariant
+aperiodic_offset,0.6323855816400255,-0.6479391950642627,False,aperiodic_broadband,gain_sensitive
+aperiodic_slope,-0.10107575462628803,0.22520278883842482,False,aperiodic_broadband,gain_invariant
+low_beta_residual_power,-0.6474037638251662,-0.41575896686839864,True,periodic,gain_invariant
+high_beta_residual_power,-1.0540460087233883,-1.0469968130190506,True,periodic,gain_invariant
+broad_beta_residual_power,-1.0621048033842386,-1.0010742052664408,True,periodic,gain_invariant
+gamma_residual_power,0.9278479169415725,1.1689406387329426,True,periodic,gain_invariant
+beta_peak_frequency,-0.9987651630711121,-0.9987651630711123,True,periodic,gain_invariant
+beta_peak_amplitude,-0.8549936119987875,-1.0801655722725036,True,periodic,gain_invariant
+gamma_peak_amplitude,1.3146081212336218,2.0998447804150153,True,periodic,gain_invariant

@@ -1,0 +1,3 @@
+variant_name,status,queries_with_same_subject_hard_negatives,success_rate,mean_true_rank,top_k,aperiodic_alpha
+v2_reference,available,32,0.59375,1.40625,,
+v2A_top5_aperiodic_rerank,available,32,0.59375,1.40625,5.0,0.5

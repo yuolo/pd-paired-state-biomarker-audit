@@ -1,0 +1,22 @@
+{
+  "available": true,
+  "extraction_errors": [],
+  "method": "frozen_v2A_compact_aperiodic_residual_features_from_signal_level_welch_psd",
+  "missing_features": [],
+  "n_selected_features": 12,
+  "n_state_rows": 68,
+  "selected_features": [
+    "stn_aperiodic_slope",
+    "stn_aperiodic_offset",
+    "stn_low_beta_residual_power",
+    "stn_high_beta_residual_power",
+    "stn_broad_beta_residual_power",
+    "stn_beta_peak_amplitude",
+    "stn_beta_peak_frequency",
+    "motor_aperiodic_slope",
+    "motor_low_beta_residual_power",
+    "motor_high_beta_residual_power",
+    "meg_aperiodic_slope",
+    "meg_gamma_residual_power"
+  ]
+}

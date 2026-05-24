@@ -1,0 +1,3 @@
+contrast,comparison,metric,observed_delta,bootstrap_mean_delta,ci_lower_95,ci_upper_95,ci_excludes_zero_positive,n_bootstrap,bootstrap_unit,seed,n_queries,n_rank_improved,n_rank_worsened,n_top1_gain,n_top1_loss,source_file
+MAGE_G_source_span_soft_v2D_minus_OXF_median_v2D,target_vs_median_v2d,delta_top1,0.2333333333333333,0.234747239523795,0.0344540229885057,0.4444444444444444,True,5000,subject,42,30,14,5,9,2,outputs/oxf_mage_g_validity_audit/mage_g_validity_paired_delta_bootstrap_ci.csv
+MAGE_G_source_span_soft_v2D_minus_OXF_median_v2D,target_vs_median_v2d,delta_mrr,0.1816390091390091,0.1823325307011701,0.0519704533817436,0.3331158738748024,True,5000,subject,42,30,14,5,9,2,outputs/oxf_mage_g_validity_audit/mage_g_validity_paired_delta_bootstrap_ci.csv

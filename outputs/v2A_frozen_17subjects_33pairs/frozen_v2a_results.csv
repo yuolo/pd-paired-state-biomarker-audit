@@ -1,0 +1,3 @@
+scorer,n_pairs,top1,mrr,percentile_rank,retrieval_margin,n_candidates_mean,other_subject_same_task_side_failure_count,quality_related_failure_count,same_subject_hard_negative_success
+v2_reference,33,0.7272727272727273,0.8255050505050505,0.8726660544842364,0.1380571483483048,7.303030303030303,7,2,0.59375
+v2A_top5_aperiodic_rerank,33,0.8484848484848485,0.8926767676767676,0.8973063973063973,-29.436416870277846,7.303030303030303,4,1,0.59375

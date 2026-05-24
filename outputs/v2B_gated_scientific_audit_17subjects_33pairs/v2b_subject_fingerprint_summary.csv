@@ -1,0 +1,7 @@
+candidate_pool_condition,variant_name,n_queries,top1_true_pair_rate,top1_same_subject_rate,top1_same_subject_wrong_task_or_side_rate,same_subject_wrong_available_rate,true_beats_same_subject_wrong_rate,median_true_rank,median_best_same_subject_wrong_rank,subject_fingerprint_gap,confound_flag
+all_medon_candidates,v2A_top5_aperiodic_rerank,33,0.3939393939393939,0.696969696969697,0.30303030303030304,0.9696969696969697,0.6060606060606061,2.0,2.0,0.3030303030303031,True
+all_medon_candidates,v2B_gated_aperiodic_top5,33,0.6666666666666666,0.6666666666666666,0.0,0.9696969696969697,0.9090909090909091,1.0,4.0,0.0,False
+all_medon_candidates,v2_reference,33,0.3939393939393939,0.696969696969697,0.30303030303030304,0.9696969696969697,0.6060606060606061,2.0,3.0,0.3030303030303031,True
+original_plus_same_subject_wrong_task_side,v2A_top5_aperiodic_rerank,33,0.48484848484848486,0.8181818181818182,0.3333333333333333,0.9696969696969697,0.6060606060606061,2.0,2.0,0.33333333333333337,True
+original_plus_same_subject_wrong_task_side,v2B_gated_aperiodic_top5,33,0.8787878787878788,0.8787878787878788,0.0,0.9696969696969697,0.9696969696969697,1.0,5.0,0.0,False
+original_plus_same_subject_wrong_task_side,v2_reference,33,0.45454545454545453,0.7878787878787878,0.3333333333333333,0.9696969696969697,0.6060606060606061,2.0,2.0,0.3333333333333333,True

@@ -1,0 +1,174 @@
+feature_group,feature,status,n_features_in_group,mapping_rule
+STN_features,stn_alpha_power,available,22,feature starts with stn_
+STN_features,stn_low_beta_power,available,22,feature starts with stn_
+STN_features,stn_high_beta_power,available,22,feature starts with stn_
+STN_features,stn_broad_beta_power,available,22,feature starts with stn_
+STN_features,stn_gamma_power,available,22,feature starts with stn_
+STN_features,stn_left_alpha_power,available,22,feature starts with stn_
+STN_features,stn_left_low_beta_power,available,22,feature starts with stn_
+STN_features,stn_left_high_beta_power,available,22,feature starts with stn_
+STN_features,stn_left_broad_beta_power,available,22,feature starts with stn_
+STN_features,stn_left_gamma_power,available,22,feature starts with stn_
+STN_features,stn_right_alpha_power,available,22,feature starts with stn_
+STN_features,stn_right_low_beta_power,available,22,feature starts with stn_
+STN_features,stn_right_high_beta_power,available,22,feature starts with stn_
+STN_features,stn_right_broad_beta_power,available,22,feature starts with stn_
+STN_features,stn_right_gamma_power,available,22,feature starts with stn_
+STN_features,stn_aperiodic_slope,available,22,feature starts with stn_
+STN_features,stn_aperiodic_offset,available,22,feature starts with stn_
+STN_features,stn_low_beta_residual_power,available,22,feature starts with stn_
+STN_features,stn_high_beta_residual_power,available,22,feature starts with stn_
+STN_features,stn_broad_beta_residual_power,available,22,feature starts with stn_
+STN_features,stn_beta_peak_amplitude,available,22,feature starts with stn_
+STN_features,stn_beta_peak_frequency,available,22,feature starts with stn_
+compact_aperiodic_residual,stn_aperiodic_slope,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,stn_aperiodic_offset,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,stn_low_beta_residual_power,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,stn_high_beta_residual_power,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,stn_broad_beta_residual_power,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,stn_beta_peak_amplitude,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,stn_beta_peak_frequency,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,motor_aperiodic_slope,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,motor_low_beta_residual_power,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,motor_high_beta_residual_power,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,meg_aperiodic_slope,available,12,compact inventory features or aperiodic/residual/peak pattern
+compact_aperiodic_residual,meg_gamma_residual_power,available,12,compact inventory features or aperiodic/residual/peak pattern
+coupling,alpha_coupling_index,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,beta_coupling_asymmetry,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,beta_coupling_index,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,cortico_stn_coupling_index,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,gamma_coupling_asymmetry,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,gamma_coupling_index,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_alpha_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_alpha_coupling_asymmetry,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_broad_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_broad_beta_coupling_asymmetry,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_gamma_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_gamma_coupling_asymmetry,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_high_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_high_beta_coupling_asymmetry,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_left_alpha_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_left_broad_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_left_gamma_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_left_high_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_left_low_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_low_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_low_beta_coupling_asymmetry,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_opposite_task_side_alpha_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_opposite_task_side_broad_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_opposite_task_side_gamma_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_opposite_task_side_high_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_opposite_task_side_low_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_right_alpha_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_right_broad_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_right_gamma_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_right_high_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_right_low_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_task_side_alpha_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_task_side_broad_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_task_side_gamma_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_task_side_high_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+coupling,motor_stn_task_side_low_beta_coupling,available,36,frozen coupling subspace or coupling/coherence pattern
+raw_beta_gamma_power,meg_low_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,meg_high_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,meg_broad_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,meg_gamma_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,motor_low_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,motor_high_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,motor_broad_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,motor_gamma_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_low_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_high_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_broad_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_gamma_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_left_low_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_left_high_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_left_broad_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_left_gamma_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_right_low_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_right_high_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_right_broad_beta_power,available,20,beta/gamma raw *_power excluding residual and coupling
+raw_beta_gamma_power,stn_right_gamma_power,available,20,beta/gamma raw *_power excluding residual and coupling
+MEG_motor_power_features,meg_alpha_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+MEG_motor_power_features,meg_low_beta_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+MEG_motor_power_features,meg_high_beta_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+MEG_motor_power_features,meg_broad_beta_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+MEG_motor_power_features,meg_gamma_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+MEG_motor_power_features,motor_alpha_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+MEG_motor_power_features,motor_low_beta_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+MEG_motor_power_features,motor_high_beta_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+MEG_motor_power_features,motor_broad_beta_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+MEG_motor_power_features,motor_gamma_power,available,10,meg_/motor_ raw *_power excluding residual and coupling
+all_v2_features,meg_alpha_power,available,61,frozen v2_reference subspace
+all_v2_features,meg_low_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,meg_high_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,meg_broad_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,meg_gamma_power,available,61,frozen v2_reference subspace
+all_v2_features,motor_alpha_power,available,61,frozen v2_reference subspace
+all_v2_features,motor_low_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,motor_high_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,motor_broad_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,motor_gamma_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_alpha_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_low_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_high_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_broad_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_gamma_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_left_alpha_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_left_low_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_left_high_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_left_broad_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_left_gamma_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_right_alpha_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_right_low_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_right_high_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_right_broad_beta_power,available,61,frozen v2_reference subspace
+all_v2_features,stn_right_gamma_power,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_low_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_high_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_broad_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,alpha_coupling_index,available,61,frozen v2_reference subspace
+all_v2_features,beta_coupling_asymmetry,available,61,frozen v2_reference subspace
+all_v2_features,beta_coupling_index,available,61,frozen v2_reference subspace
+all_v2_features,cortico_stn_coupling_index,available,61,frozen v2_reference subspace
+all_v2_features,gamma_coupling_asymmetry,available,61,frozen v2_reference subspace
+all_v2_features,gamma_coupling_index,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_alpha_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_alpha_coupling_asymmetry,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_broad_beta_coupling_asymmetry,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_gamma_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_gamma_coupling_asymmetry,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_high_beta_coupling_asymmetry,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_left_alpha_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_left_broad_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_left_gamma_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_left_high_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_left_low_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_low_beta_coupling_asymmetry,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_opposite_task_side_alpha_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_opposite_task_side_broad_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_opposite_task_side_gamma_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_opposite_task_side_high_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_opposite_task_side_low_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_right_alpha_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_right_broad_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_right_gamma_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_right_high_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_right_low_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_task_side_alpha_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_task_side_broad_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_task_side_gamma_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_task_side_high_beta_coupling,available,61,frozen v2_reference subspace
+all_v2_features,motor_stn_task_side_low_beta_coupling,available,61,frozen v2_reference subspace
+v2A_compact_rerank_features,stn_aperiodic_slope,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,stn_aperiodic_offset,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,stn_low_beta_residual_power,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,stn_high_beta_residual_power,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,stn_broad_beta_residual_power,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,stn_beta_peak_amplitude,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,stn_beta_peak_frequency,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,motor_aperiodic_slope,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,motor_low_beta_residual_power,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,motor_high_beta_residual_power,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,meg_aperiodic_slope,available,12,frozen compact aperiodic/residual rerank inventory
+v2A_compact_rerank_features,meg_gamma_residual_power,available,12,frozen compact aperiodic/residual rerank inventory
